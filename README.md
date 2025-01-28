@@ -1,4 +1,4 @@
-# ChatSetMatch 🎾💬🎾
+# GameSetChat🎾💬🎾
 Back-and-forth dialogue constructor, using verbal Q&A to improve knowledge recall and personal delight.
 
 ## Setup
