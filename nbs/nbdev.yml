@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "GameSetChat"
+  site-url: "https://lukexyz.github.io/GameSetChat"
+  description: "Back-and-forth dialogue constructor, using verbal Q&A to improve knowedge recall and delight."
+  repo-branch: main
+  repo-url: "https://github.com/lukexyz/GameSetChat"

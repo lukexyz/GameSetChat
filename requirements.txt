@@ -1,0 +1,7 @@
+streamlit
+streamlit_autorefresh
+openai
+rich
+toml
+nbdev
+claudette
